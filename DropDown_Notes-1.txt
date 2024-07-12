@@ -58,6 +58,7 @@ Select Methods :
 
 					  
 This is the updated file
+deselectAll() : It wont accept in single dropdown.
 
 
 
